@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00f72764-5f39-4a17-a54f-20154bff14ea" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\SOFWARE\develop\maven\apache-maven-3.8.1\conf\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../SOFWARE/develop/maven/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\SOFWARE\develop\maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2YQmGeCt5fiK1rh1HTgIIi6W3ie" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/learningNote/xiangmu/weixin/weixin-demo1/weixin-demo1/src/main/resources/mapper",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "spring.configuration.checksum": "59c75d1239d055ffe057d293fe1a431c",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\learningNote\xiangmu\weixin\weixin-demo1\weixin-demo1\src\main\resources\mapper" />
+      <recent name="D:\learningNote\xiangmu\weixin\weixin-demo1\weixin-demo1\src\main\java\com\yupi\springbootinit\weixin\ws" />
+      <recent name="D:\learningNote\xiangmu\weixin\weixin-demo1\weixin-demo1\src\main\java\com\yupi\springbootinit\weixin\chat\mapper" />
+      <recent name="D:\learningNote\zheng\xiangmu\weixin\demo1-houduan\weixin-demo1\src\main" />
+      <recent name="D:\learningNote\zheng\xiangmu\weixin\demo1-houduan\weixin-demo1\src\main\java\com\zheng\weixin\response\util" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yupi.springbootinit.exception" />
+      <recent name="com.yupi.springbootinit.weixin.domain.entity" />
+      <recent name="com.yupi.springbootinit.weixin.chat.mapper" />
+      <recent name="com.yupi.springbootinit.weixin.chat.dao" />
+      <recent name="com.yupi.springbootinit.weixin.chat.service.cache" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration name="NettyWebSocketServerHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.yupi.springbootinit.weixin.websocket.NettyWebSocketServerHandler" />
+      <module name="springboot-init" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.springbootinit.weixin.websocket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="springboot-init" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yupi.springbootinit.weixin.App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.springbootinit.weixin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="springboot-init" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yupi.springbootinit.MainApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.springbootinit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApplication" />
+        <item itemvalue="Application.NettyWebSocketServerHandler" />
+        <item itemvalue="Spring Boot.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00f72764-5f39-4a17-a54f-20154bff14ea" name="Changes" comment="" />
+      <created>1700466084581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700466084581</updated>
+      <workItem from="1700466085589" duration="3219000" />
+      <workItem from="1700527814477" duration="352000" />
+      <workItem from="1700802292185" duration="8129000" />
+      <workItem from="1701046985909" duration="16295000" />
+      <workItem from="1701132645941" duration="1374000" />
+      <workItem from="1701140040181" duration="4453000" />
+      <workItem from="1701179083234" duration="407000" />
+      <workItem from="1701179497523" duration="328000" />
+      <workItem from="1701179831017" duration="45000" />
+      <workItem from="1701179885105" duration="10000" />
+      <workItem from="1701179970236" duration="5372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
